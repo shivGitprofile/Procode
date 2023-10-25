@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+   background-color: #12404E;
+   color: #d3ef00;
+   height: 100%;
+}
+
+.left-panel {
+    width: 60%;
+    padding: 20px;
+    
+}
+
+.right-panel {
+    width: 50%;
+    padding: 30px;
+}
+
+textarea {
+    width: 100%;
+    height:400px;
+    margin-bottom: 4px;
+    background-color:#1E1E1E;
+    color: #d3ef00;
+}
+
+button {
+    margin-right: 10px;
+    motion: none;
+    background-color: #544d4d;
+}
+
+
+#input,
+#output {
+    width:300px;
+    resize: none;
+    background-color:#1E1E1E;
+    color: white;
+    margin: 3px ; /* Adjust the vertical margin for spacing */
+    height: 200px; /* You can adjust the height as needed */
+}
