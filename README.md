@@ -11,7 +11,7 @@ Syntax Highlighting: The code editor includes syntax highlighting, making it eas
 
 User-Friendly Interface: The intuitive interface is designed with simplicity in mind, ensuring that both beginners and experienced programmers can navigate the platform effortlessly. Clear instructions and prompts guide users through the coding and compilation process.
 
-How to Use:.
+# How to Use:.
 "Firstly, make sure that you have downloaded Node.js (set it up) and CodeMirror. Then, copy and paste CodeMirror into your project file. After that, go to the terminal and run the command node or nodemon api."
 
 Choose a Language: Select Java, Python, C++, or JavaScript (Node.js) from the language options.
